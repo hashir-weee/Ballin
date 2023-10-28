@@ -1,0 +1,268 @@
+{
+  "questions": [
+    {
+      "question": "Hello!",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm just a chatbot, so I don't have feelings, but I'm here to help you!"
+    },
+    {
+      "question": "What's the weather like today?",
+      "answer": "I'm sorry, I don't have access to real-time information. You can check a weather website or app for that."
+    },
+    {
+      "question": "Tell me a joke.",
+      "answer": "Sure, here's one: Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "Who won the World Series in 2020?",
+      "answer": "The Los Angeles Dodgers won the 2020 World Series."
+    },
+    {
+      "question": "What's your name?",
+      "answer": "I'm just a chatbot, so I don't have a name. You can call me whatever you like!"
+    },
+    {
+      "question": "How does photosynthesis work?",
+      "answer": "Photosynthesis is the process by which green plants and some other organisms convert light energy into chemical energy in the form of glucose and oxygen. It involves capturing sunlight, water, and carbon dioxide to produce glucose and release oxygen."
+    },
+    {
+      "question": "What's the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "How do I bake chocolate chip cookies?",
+      "answer": "To bake chocolate chip cookies, you'll need ingredients like flour, sugar, butter, chocolate chips, and more. Mix the ingredients, drop spoonfuls of dough onto a baking sheet, and bake in the oven at 350\u00c2\u00b0F (175\u00c2\u00b0C) for about 10-12 minutes or until they are golden brown."
+    },
+    {
+      "question": "What is the meaning of life?",
+      "answer": "The meaning of life is a philosophical and existential question that has been debated for centuries. It can vary from person to person and is a question without a single, definitive answer."
+    },
+    {
+      "question": "What's the population of New York City?",
+      "answer": "As of my last update in 2022, the population of New York City is approximately 8.8 million people."
+    },
+    {
+      "question": "Tell me a fun fact.",
+      "answer": "Sure, here's a fun fact: Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible."
+    },
+    {
+      "question": "How do I change a flat tire on a car?",
+      "answer": "To change a flat tire on a car, you'll need a jack, a lug wrench, and a spare tire. First, safely pull over to the side of the road, use the jack to lift the car, remove the lug nuts with the wrench, take off the flat tire, and replace it with the spare. Then, tighten the lug nuts and lower the car."
+    },
+    {
+      "question": "What's the largest planet in our solar system?",
+      "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+      "question": "How do I create a strong password?",
+      "answer": "A strong password should be long, include a mix of upper and lower-case letters, numbers, and special characters, and should not be easily guessable. Avoid using easily discoverable information like birthdays or common words."
+    },
+    {
+      "question": "Do you like pizza?",
+      "answer": "I don't eat, so I can't say I like it, but many people enjoy pizza!"
+    },
+    {
+      "question": "Tell me a riddle.",
+      "answer": "Sure, here's one: I'm not alive, but I can grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I? Answer: A fire."
+    },
+    {
+      "question": "What's your favorite color?",
+      "answer": "I don't have personal preferences, but I can help you find information about colors or suggest color combinations if you'd like."
+    },
+    {
+      "question": "Why did the chicken cross the road?",
+      "answer": "To get to the other side, of course! That's a classic joke."
+    },
+    {
+      "question": "Tell me a cat fact.",
+      "answer": "Cats have a specialized collarbone that allows them to always land on their feet when they fall, a behavior known as the 'cat righting reflex.'"
+    },
+    {
+      "question": "What's the best way to start a day?",
+      "answer": "The best way to start the day varies from person to person, but some enjoy a good breakfast, exercise, or a positive affirmation to set a positive tone."
+    },
+    {
+      "question": "Can you dance?",
+      "answer": "I'm not equipped for dancing, but I can help you find dance tutorials or suggest some great dance songs!"
+    },
+    {
+      "question": "What's the meaning of 'YOLO'?",
+      "answer": "'YOLO' stands for 'You Only Live Once.' It's often used to encourage people to take risks and make the most out of life."
+    },
+    {
+      "question": "Tell me a pun.",
+      "answer": "Sure, here's one: I'm reading a book on anti-gravity. It's impossible to put down!"
+    },
+    {
+      "question": "How can I make the perfect cup of coffee?",
+      "answer": "To make the perfect cup of coffee, use freshly ground beans, the right water temperature (around 195-205\u00c2\u00b0F or 90-96\u00c2\u00b0C), and brew it for the right amount of time. Experiment with the coffee-to-water ratio to suit your taste."
+    },
+    {
+      "question": "What's the most interesting place in the world?",
+      "answer": "There are so many fascinating places in the world! It depends on your interests, but some people find natural wonders like the Grand Canyon or cultural sites like the Taj Mahal to be incredibly interesting."
+    },
+    {
+      "question": "Can you tell a bedtime story?",
+      "answer": "Once upon a time, in a land far, far away, there was a brave adventurer who embarked on a quest to find the legendary... What kind of story would you like to hear?"
+    },
+    {
+      "question": "What's your favorite book?",
+      "answer": "I don't have favorites, but I can recommend some popular books across different genres if you're looking for a good read!"
+    },
+    {
+      "question": "Do you believe in aliens?",
+      "answer": "I don't have beliefs, but the existence of aliens is a topic that has fascinated scientists and enthusiasts for a long time. It's a mysterious and intriguing idea!"
+    },
+    {
+      "question": "Tell me a fun science fact.",
+      "answer": "Here's one: Honey never spoils because it has low water content and high acidity, creating an environment that inhibits the growth of bacteria and microorganisms."
+    },
+    {
+      "question": "What's the best way to beat the heat in summer?",
+      "answer": "Some people enjoy ice cream, swimming, or simply staying indoors with air conditioning when it's hot outside. What's your favorite way to stay cool?"
+    },
+    {
+      "question": "What's the secret to happiness?",
+      "answer": "Happiness is a complex and personal concept. It can come from positive relationships, meaningful experiences, and finding joy in the little things. What makes you happy?"
+    },
+    {
+      "question": "Tell me a travel joke.",
+      "answer": "Why don't scientists trust atoms when they go on vacation? Because they make up everything, even their travel plans!"
+    },
+    {
+      "question": "What's the best way to spend a rainy day?",
+      "answer": "Rainy days can be cozy! You can curl up with a good book, watch movies, bake cookies, or even take a peaceful nap."
+    },
+    {
+      "question": "What's your favorite movie?",
+      "answer": "I don't have personal preferences, but I can recommend movies from various genres based on your interests."
+    },
+    {
+      "question": "Tell me a dog fact.",
+      "answer": "Dogs have an extraordinary sense of smell. They can detect certain diseases in humans, find missing persons, and even identify specific scents with remarkable accuracy."
+    },
+    {
+      "question": "What's the key to a successful relationship?",
+      "answer": "Successful relationships often involve good communication, trust, mutual respect, and a willingness to work through challenges together. What's your favorite relationship advice?"
+    },
+    {
+      "question": "Can you sing a song?",
+      "answer": "I'm not a great singer, but I can provide song lyrics or recommend some great songs for you to listen to!"
+    },
+    {
+      "question": "Tell me a gardening tip.",
+      "answer": "When gardening, remember to water your plants in the morning to prevent mold growth and give them time to dry before evening. Also, proper spacing and good soil are essential for healthy plants."
+    },
+    {
+      "question": "What's the best way to unwind after a long day?",
+      "answer": "Many people unwind by taking a relaxing bath, practicing mindfulness, or enjoying a good book or movie. What's your favorite way to de-stress?"
+    },
+    {
+      "question": "Tell me a funny cat joke.",
+      "answer": "Why did the cat sit next to the computer? Because it wanted to keep an eye on the mouse!"
+    },
+    {
+      "question": "What's your favorite dessert?",
+      "answer": "I don't have favorites, but some popular desserts include chocolate cake, ice cream, and fruit tarts. What's your go-to dessert?"
+    },
+    {
+      "question": "Can you do a magic trick?",
+      "answer": "I wish I could, but I'm just a text-based chatbot. However, I can help you learn some magic tricks or explain how they work!"
+    },
+    {
+      "question": "What's the best way to stay motivated?",
+      "answer": "Staying motivated can be a challenge. Setting clear goals, staying organized, and finding inspiration from others or your own accomplishments can help."
+    },
+    {
+      "question": "Tell me a fun fact about space.",
+      "answer": "In space, there's a place called the 'Roche Limit,' which is the minimum distance at which a celestial body, like a moon, will disintegrate due to tidal forces from the planet it's orbiting."
+    },
+    {
+      "question": "What's the best way to spend a Sunday afternoon?",
+      "answer": "Sunday afternoons can be for relaxation or adventure. Some people enjoy picnics, hiking, or simply lounging at home with a good book."
+    },
+    {
+      "question": "Can you tell a pirate joke?",
+      "answer": "Why did nobody want to play cards with the pirate? Because he was standing on the deck!"
+    },
+    {
+      "question": "What's your favorite season?",
+      "answer": "I don't have personal preferences, but each season has its unique charm. Do you have a favorite season?"
+    },
+    {
+      "question": "How do I make a delicious sandwich?",
+      "answer": "To make a delicious sandwich, start with fresh ingredients like your choice of bread, meats, cheese, veggies, and condiments. Experiment with different combinations to find your favorite!"
+    },
+    {
+      "question": "What's the best way to make a friend laugh?",
+      "answer": "Humor can vary, but sharing a funny story, joke, or a light-hearted meme is often a good way to make a friend laugh. What's your go-to joke?"
+    },
+    {
+      "question": "Can you recommend a great TV show to binge-watch?",
+      "answer": "Of course! Depending on your interests, you might enjoy shows like 'Stranger Things,' 'Game of Thrones,' 'The Office,' or 'Friends.' What genre are you in the mood for?"
+    },
+    {
+      "question": "Tell me a fun fact about animals.",
+      "answer": "Did you know that octopuses have three hearts? Two pump blood to the gills, while the third pumps it to the rest of the body!"
+    },
+    {
+      "question": "What's the best way to cheer someone up?",
+      "answer": "Listening to their feelings, offering a kind word, and spending time with them can be great ways to cheer someone up. Small gestures of kindness go a long way!"
+    },
+    {
+      "question": "Can you share a gardening joke?",
+      "answer": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    },
+    {
+      "question": "What's your favorite type of music?",
+      "answer": "I don't have personal preferences, but I can recommend music from various genres like rock, pop, jazz, or classical. What do you like to listen to?"
+    },
+    {
+      "question": "Tell me a fun fact about the ocean.",
+      "answer": "The ocean covers about 71% of the Earth's surface and contains around 97% of the world's water. Yet, we've explored less than 5% of it!"
+    },
+    {
+      "question": "What's the best way to start a conversation with someone new?",
+      "answer": "Starting with a friendly greeting and asking open-ended questions about their interests or experiences is a great way to break the ice and get to know someone."
+    },
+    {
+      "question": "Can you share a tech joke?",
+      "answer": "Why don't programmers like nature? It has too many bugs!"
+    },
+    {
+      "question": "What's the best way to stay positive?",
+      "answer": "Staying positive can be challenging, but focusing on gratitude, setting achievable goals, and surrounding yourself with supportive people can help maintain a positive outlook."
+    },
+    {
+      "question": "Can you tell me a dinosaur joke?",
+      "answer": "Why can't you hear a pterodactyl go to the bathroom? Because the 'P' is silent!"
+    },
+    {
+      "question": "What's your favorite type of art?",
+      "answer": "I don't have personal preferences, but art comes in many forms, from painting and sculpture to photography and digital art. What type of art do you appreciate?"
+    },
+    {
+      "question": "Tell me a fun fact about insects.",
+      "answer": "Ants are incredibly strong for their size. They can carry objects that are many times their own weight, making them impressive little creatures!"
+    },
+    {
+      "question": "Hi!",
+      "answer": "Hello!"
+    },
+    {
+      "question": "HI",
+      "answer": "Hellooo"
+    },
+    {
+      "question": "How to sex",
+      "answer": "& C:/Python311/python.exe \"c:/Users/daniy/Desktop/Code/App Dev/Chat bot that learns from you/main.py\""
+    },
+    {
+      "question": "Wsg",
+      "answer": "Sup homie"
+    }
+  ]
+}
